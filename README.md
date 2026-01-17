@@ -1,13 +1,23 @@
 # Sales Performance Analysis Dashboard
 
-This project contains a Power BI dashboard to analyze sales performance.
+Power BI dashboard for analyzing sales, profit, customer segments, regions, and payment methods.
 
-# Tools used
-- Power BI
-- Excel / CSV (data source)
+# Tools
+
+* Power BI
+* Excel / CSV
+
+# Key KPIs
+
+* Total Sales
+* Total Quantity Sold
+* Average Profit Margin
+* Total Profit
+* Number of Orders
 
 # Features
-- Sales by region
-- Monthly trends
-- Top products
-- KPI metrics
+
+* Interactive filters (category, region, date, payment method, customer)
+* Sales & profit trends
+* Product and regional performance analysis
+
